@@ -1,2 +1,9 @@
-AULA 15/09/22
+AULA 13/10/22
+
+- REACT
+- BOOTSTRAP
+- NODE
+
+
+
 
